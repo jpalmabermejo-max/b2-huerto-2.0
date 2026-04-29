@@ -1,0 +1,1069 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260429094433488TJW</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202604290944337YE7SF</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Proyecto &quot;HUERTO 2.0&quot;</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Joaquín Palma Bermejo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Este proyecto intenta implicar al alumnado en el uso y aplicación de herramientas digitales o través del trabajo de cultivo de un huerto escolar.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777448510610</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mojqy87a-cq8z7icpc</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Situación de aprendizaje &quot;Huerto 2.0&quot;</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Situación de aprendizaje &quot;Huerto 2.0&quot;</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Situación de aprendizaje &quot;Huerto 2.0&quot;</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mojqy87a-cq8z7icpc</odePageId>
+      <odeBlockId>block-1777312383929-mkeqpa4gr</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mojqy87a-cq8z7icpc</odePageId>
+          <odeBlockId>block-1777312383929-mkeqpa4gr</odeBlockId>
+          <odeIdeviceId>idevice-1777312383925-i58jk7su7</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777312383925-i58jk7su7" title="" href="{{context_path}}/content/resources/H.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/H.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777312383925-i58jk7su7","img_0":{"img":"{{context_path}}/content/resources/H.jpg","thumbnail":"{{context_path}}/content/resources/H.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mojqy87f-3jkyyffi0</odePageId>
+  <odeParentPageId>page-mojqy87a-cq8z7icpc</odeParentPageId>
+  <pageName>Nuestro proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nuestro proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Huerto 2.0</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Nuestro proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mojqy87f-3jkyyffi0</odePageId>
+      <odeBlockId>block-1776876210861-jl0oldylf</odeBlockId>
+      <blockName>Comenzamos nuestro Proyecto</blockName>
+      <iconName>technology</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mojqy87f-3jkyyffi0</odePageId>
+          <odeBlockId>block-1776876210861-jl0oldylf</odeBlockId>
+          <odeIdeviceId>idevice-1776876210859-1nzyjhl7f</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776876210859-1nzyjhl7f","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mojqy87f-3jkyyffi0</odePageId>
+      <odeBlockId>block-1776877884431-pi64z04mh</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mojqy87f-3jkyyffi0</odePageId>
+          <odeBlockId>block-1776877884431-pi64z04mh</odeBlockId>
+          <odeIdeviceId>idevice-1776877884427-9fvohkzo7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/e72d7e99-9a98-4e96-8e59-a13feeae7547.jpeg" width="1536" height="861" alt="" /></p>
+<h6><em>SDA. "Huerto 2.0". Imagen generada con Gemini. Uso educativo</em></h6>
+<p><strong></strong><br /></p>
+<p><strong>1- NIVEL AL QUE VA DIRIGIDO:</strong></p>
+<p>Este proyecto esta diseñado para el alumnado de 1º de ESO.</p>
+<p><em>Justificación:</em></p>
+<p>Nos basamos en los buenos resultados obtenidos en cursos anteriores en los trabajos desarrollados en el huerto escolar como promotor de hábitos saludables y de respeto al medio ambiente.</p>
+<p><strong>2- ÁREAS IMPLICADAS:</strong></p>
+<p>Biología- geología, matemáticas, tecnología y educación física.</p>
+<p><em>Justificación:</em></p>
+<p>La elección de estas materias se debe a que la actividad expuesta en la rutina de pensamiento se centraba en el desarrollo de competencias específicas de la materia de biología-geología, utilizando las matemáticas de forma transversal (áreas, litros de riego….).</p>
+<p><strong>3- CENTRO DE INTERÉS:</strong></p>
+<p>El centro de interés es la creación y el desarrollo de un huerto escolar en la que se cultiven productos ecológicos.</p>
+<p><strong>4- TEMPORALIZACIÓ</strong>N:</p>
+<p>Se desarrollará durante el segundo y tercer trimestre del curso.</p>
+<p><em>Justificación:</em></p>
+<p>Se trata de un proyecto a largo plazo por que depende de la época óptima de desarrollo de cada tipo de cultivo. También coincide con el periodo en que se trabajan los saberes básicos relacionados con los seres vivos.</p>
+<p><strong>5- IDIOMA:</strong></p>
+<p>Se desarrolla en idioma español.</p>
+<p><em>Justificación:</em></p>
+<p>El centro no es bilingue.</p>
+<p><strong>6- DESCRIPCIÓN GENERAL:</strong></p>
+<p>"Nuestro huerto 2.0" es el título de la Situación de Aprendizaje a desarrollar con el alumnado de 1º de ESO.</p>
+<p>El producto final será la obtención de un documento digital, que el alumnado debe elaborar y exponer haciendo uso de herramientas digitales (APP PlantNet, Camba, Genially, Power Point o video) del proceso seguido, de los datos que ha ido recogiendo, y de los resultados que ha obtenido en el cultivo y mantenimiento del huerto escolar del centro.</p>
+<p>Para ello realizaremos las siguiente actividades:</p>
+<p><strong>- Actividades de motivación</strong>: mediante videos y exposición de fotos de los productos cosechados en años anteriores.</p>
+<p><em><strong>- Actividades de activación y exploración:</strong></em> con dinámicas de trabajo para la activación de conocimientos previos sobre la naturaleza (germinación de semilla en vaso y estructura de la planta que ya trabajaron en primaria).</p>
+<p><em><strong>- Actividades de estructuración:</strong></em> para empezar a adquirir nuevos saberes básicos, mediante la preparación del huerto (tipos de herramientas, labrado, disposición de agua, abonado….).</p>
+<p><em><strong>- Actividades de aplicación:</strong></em> siembra directa y mantenimiento de cultivos in situ.</p>
+<p style="text-align: justify;"><em><strong>- Actividades de conclusión:</strong></em> recolección de cultivos, análisis y exposición digital de resultados.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776877884427-9fvohkzo7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/e72d7e99-9a98-4e96-8e59-a13feeae7547.jpeg\" width=\"1536\" height=\"861\" alt=\"\" /></p>\n<h6><em>SDA. \"Huerto 2.0\". Imagen generada con Gemini. Uso educativo</em></h6>\n<p><strong></strong><br /></p>\n<p><strong>1- NIVEL AL QUE VA DIRIGIDO:</strong></p>\n<p>Este proyecto esta diseñado para el alumnado de 1º de ESO.</p>\n<p><em>Justificación:</em></p>\n<p>Nos basamos en los buenos resultados obtenidos en cursos anteriores en los trabajos desarrollados en el huerto escolar como promotor de hábitos saludables y de respeto al medio ambiente.</p>\n<p><strong>2- ÁREAS IMPLICADAS:</strong></p>\n<p>Biología- geología, matemáticas, tecnología y educación física.</p>\n<p><em>Justificación:</em></p>\n<p>La elección de estas materias se debe a que la actividad expuesta en la rutina de pensamiento se centraba en el desarrollo de competencias específicas de la materia de biología-geología, utilizando las matemáticas de forma transversal (áreas, litros de riego….).</p>\n<p><strong>3- CENTRO DE INTERÉS:</strong></p>\n<p>El centro de interés es la creación y el desarrollo de un huerto escolar en la que se cultiven productos ecológicos.</p>\n<p><strong>4- TEMPORALIZACIÓ</strong>N:</p>\n<p>Se desarrollará durante el segundo y tercer trimestre del curso.</p>\n<p><em>Justificación:</em></p>\n<p>Se trata de un proyecto a largo plazo por que depende de la época óptima de desarrollo de cada tipo de cultivo. También coincide con el periodo en que se trabajan los saberes básicos relacionados con los seres vivos.</p>\n<p><strong>5- IDIOMA:</strong></p>\n<p>Se desarrolla en idioma español.</p>\n<p><em>Justificación:</em></p>\n<p>El centro no es bilingue.</p>\n<p><strong>6- DESCRIPCIÓN GENERAL:</strong></p>\n<p>\"Nuestro huerto 2.0\" es el título de la Situación de Aprendizaje a desarrollar con el alumnado de 1º de ESO.</p>\n<p>El producto final será la obtención de un documento digital, que el alumnado debe elaborar y exponer haciendo uso de herramientas digitales (APP PlantNet, Camba, Genially, Power Point o video) del proceso seguido, de los datos que ha ido recogiendo, y de los resultados que ha obtenido en el cultivo y mantenimiento del huerto escolar del centro.</p>\n<p>Para ello realizaremos las siguiente actividades:</p>\n<p><strong>- Actividades de motivación</strong>: mediante videos y exposición de fotos de los productos cosechados en años anteriores.</p>\n<p><em><strong>- Actividades de activación y exploración:</strong></em> con dinámicas de trabajo para la activación de conocimientos previos sobre la naturaleza (germinación de semilla en vaso y estructura de la planta que ya trabajaron en primaria).</p>\n<p><em><strong>- Actividades de estructuración:</strong></em> para empezar a adquirir nuevos saberes básicos, mediante la preparación del huerto (tipos de herramientas, labrado, disposición de agua, abonado….).</p>\n<p><em><strong>- Actividades de aplicación:</strong></em> siembra directa y mantenimiento de cultivos in situ.</p>\n<p style=\"text-align: justify;\"><em><strong>- Actividades de conclusión:</strong></em> recolección de cultivos, análisis y exposición digital de resultados.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mojqy87i-2cw8zanwa</odePageId>
+  <odeParentPageId>page-mojqy87a-cq8z7icpc</odeParentPageId>
+  <pageName>Consejos de seguridad</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Consejos de seguridad</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Consejos de seguridad</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mojqy87i-2cw8zanwa</odePageId>
+      <odeBlockId>block-1776962328748-jrupbro0w</odeBlockId>
+      <blockName>Trabajamos en un entorno digital adecuado</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mojqy87i-2cw8zanwa</odePageId>
+          <odeBlockId>block-1776962328748-jrupbro0w</odeBlockId>
+          <odeIdeviceId>idevice-1776962328745-bcwns5n66</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Gemini_Generated_Image_mw849cmw849cmw84.png" width="1408" height="768" alt="Entorno digital seguro. Imagen generada con Gemini Nano Banana" /></p>
+<p><em>Imagen generada con Gemini Nano Banana.</em></p>
+<p>Al trabajar en un entorno digital debemos tener en cuenta hacerlo con responsabilidad, cuidado y respeto. Por ello estos consejos nos ayudarán a trabajar de forma segura y respetuosa:</p>
+<p><embed width="100%" height="100%" src="{{context_path}}/content/resources/Permisos y licencias.pdf" type="application/pdf"></embed></p>
+<p>https://drive.google.com/file/d/1ab1CufMvbw6tccUa6UPrzXe2j-DIHF-r/view</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776962328745-bcwns5n66","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_mw849cmw849cmw84.png\" width=\"1408\" height=\"768\" alt=\"Entorno digital seguro. Imagen generada con Gemini Nano Banana\" /></p>\n<p><em>Imagen generada con Gemini Nano Banana.</em></p>\n<p>Al trabajar en un entorno digital debemos tener en cuenta hacerlo con responsabilidad, cuidado y respeto. Por ello estos consejos nos ayudarán a trabajar de forma segura y respetuosa:</p>\n<p><embed width=\"100%\" height=\"100%\" src=\"{{context_path}}/content/resources/Permisos y licencias.pdf\" type=\"application/pdf\"></embed></p>\n<p>https://drive.google.com/file/d/1ab1CufMvbw6tccUa6UPrzXe2j-DIHF-r/view</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mojqy87j-5hbqh2d2p</odePageId>
+  <odeParentPageId>page-mojqy87a-cq8z7icpc</odeParentPageId>
+  <pageName>Recursos</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Recursos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mojqy87j-5hbqh2d2p</odePageId>
+      <odeBlockId>block-1776964184644-7px9fdw31</odeBlockId>
+      <blockName>Recursos docentes para la gestión del aula.</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mojqy87j-5hbqh2d2p</odePageId>
+          <odeBlockId>block-1776964184644-7px9fdw31</odeBlockId>
+          <odeIdeviceId>idevice-1776964184642-bpiz9y4ey</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Gemini_Generated_Image_ctzvysctzvysctzv.png" title="Imagen generada con Gemini Nano Banana" width="1408" height="768" alt="Imagen generada con Gemini Nano Banana" /></p>
+<p><em>Imagen generada con Gemini Nano Banana.</em></p>
+<p>Este espacio agrupa los recursos necesarios para el trabajo diario en el aula. Con ello se consigue tener al alcance recursos digitales organizados y seleccionados para la comunicación, creación de materiales y seguimiento del alumnado:</p>
+<p>- Mi symbaloo: <a href="https://www.symbaloo.com/shared/AAAAB-ux_kkAA42ASQtgWw==">https://www.symbaloo.com/shared/AAAAB-ux_kkAA42ASQtgWw==</a></p>
+<p><a href="https://www.symbaloo.com/shared/AAAAB-ux_kkAA42ASQtgWw==" title="Enlace a recursos docentes" target="_blank" rel="noopener"><img src="{{context_path}}/content/resources/Captura de pantalla 2026-04-22 192356.png" width="745" height="597" alt="" /></a></p>
+<p><br /></p>
+<p>- Mi padlet: <a href="https://padlet.com/jpalmabermejo/mi-padlet-vegetal-2ks4xvge5w5bvlzc">https://padlet.com/jpalmabermejo/mi-padlet-vegetal-2ks4xvge5w5bvlzc</a></p>
+<p><br /></p>
+<p><br /></p>
+<div class="padlet-embed" style="border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;">
+<p style="padding: 0; margin: 0;"><iframe width="100" height="608" style="width: 100%; height: 608px; display: block; padding: 0; margin: 0;" src="https://padlet.com/embed/2ks4xvge5w5bvlzc" frameborder="0" allow="camera;microphone;geolocation;display-capture;clipboard-write"></iframe></p>
+<div style="display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;"><a href="https://padlet.com?ref=embed" style="display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;" target="_blank" rel="noopener"><span aria-hidden="" style="color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;">Made with</span><img src="https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png" height="12" style="padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;" alt="Hecho con Padlet" /></a></div>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776964184642-bpiz9y4ey","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_ctzvysctzvysctzv.png\" title=\"Imagen generada con Gemini Nano Banana\" width=\"1408\" height=\"768\" alt=\"Imagen generada con Gemini Nano Banana\" /></p>\n<p><em>Imagen generada con Gemini Nano Banana.</em></p>\n<p>Este espacio agrupa los recursos necesarios para el trabajo diario en el aula. Con ello se consigue tener al alcance recursos digitales organizados y seleccionados para la comunicación, creación de materiales y seguimiento del alumnado:</p>\n<p>- Mi symbaloo: <a href=\"https://www.symbaloo.com/shared/AAAAB-ux_kkAA42ASQtgWw==\">https://www.symbaloo.com/shared/AAAAB-ux_kkAA42ASQtgWw==</a></p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAAB-ux_kkAA42ASQtgWw==\" title=\"Enlace a recursos docentes\" target=\"_blank\" rel=\"noopener\"><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-04-22 192356.png\" width=\"745\" height=\"597\" alt=\"\" /></a></p>\n<p><br /></p>\n<p>- Mi padlet: <a href=\"https://padlet.com/jpalmabermejo/mi-padlet-vegetal-2ks4xvge5w5bvlzc\">https://padlet.com/jpalmabermejo/mi-padlet-vegetal-2ks4xvge5w5bvlzc</a></p>\n<p><br /></p>\n<p><br /></p>\n<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;\">\n<p style=\"padding: 0; margin: 0;\"><iframe width=\"100\" height=\"608\" style=\"width: 100%; height: 608px; display: block; padding: 0; margin: 0;\" src=\"https://padlet.com/embed/2ks4xvge5w5bvlzc\" frameborder=\"0\" allow=\"camera;microphone;geolocation;display-capture;clipboard-write\"></iframe></p>\n<div style=\"display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;\"><a href=\"https://padlet.com?ref=embed\" style=\"display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;\" target=\"_blank\" rel=\"noopener\"><span aria-hidden=\"\" style=\"color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;\">Made with</span><img src=\"https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png\" height=\"12\" style=\"padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;\" alt=\"Hecho con Padlet\" /></a></div>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mojqy87k-ebycvha05</odePageId>
+  <odeParentPageId>page-mojqy87a-cq8z7icpc</odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Asociamos tareas a criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mojqy87k-ebycvha05</odePageId>
+      <odeBlockId>block-1776879573415-fu6oqy25b</odeBlockId>
+      <blockName>Tabla de vinculaciones</blockName>
+      <iconName>arts</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mojqy87k-ebycvha05</odePageId>
+          <odeBlockId>block-1776879573415-fu6oqy25b</odeBlockId>
+          <odeIdeviceId>idevice-1776879573412-tkzp2ighe</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Gemini_Generated_Image_sfspgssfspgssfsp.png" title="Imagen generada con Gemini Nano Banana" width="1408" height="768" alt="Imagen generada con Gemini Nano Banana" /></p>
+<p><em>Imagen generada con Gemini Nano Banana.</em></p>
+<p>Para trabajar las actividades de forma organizada, establecemos una relación entre lo que se va a evaluar y lo que el alumnado va a hacer. Esta conexión permite optimizar el proceso de enseñanza-aprendizaje garantizando que cada actividad contribuya de forma directa al desarrollo  de las competencias y criterios establecidos en el curriculo.</p>
+<p>La siguiente tabla muestra la relación en que cada actividad se vincula con los criterios de avaluación:</p>
+<p><a href="{{context_path}}/content/resources/6.1. Asociamos tareas a Criterios de evaluación_.pdf" title="6.1. Asociamos tareas a Criterios de evaluación_.pdf">https://drive.google.com/file/d/1gr_CGWaniar-3CIbUAiXWAtZVCMlG7d1/view?usp=sharing</a></p>
+<p><embed width="100%" height="100 %" src="{{context_path}}/content/resources/6.1. Asociamos tareas a Criterios de evaluación_.pdf" type="application/pdf"></embed></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776879573412-tkzp2ighe","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_sfspgssfspgssfsp.png\" title=\"Imagen generada con Gemini Nano Banana\" width=\"1408\" height=\"768\" alt=\"Imagen generada con Gemini Nano Banana\" /></p>\n<p><em>Imagen generada con Gemini Nano Banana.</em></p>\n<p>Para trabajar las actividades de forma organizada, establecemos una relación entre lo que se va a evaluar y lo que el alumnado va a hacer. Esta conexión permite optimizar el proceso de enseñanza-aprendizaje garantizando que cada actividad contribuya de forma directa al desarrollo  de las competencias y criterios establecidos en el curriculo.</p>\n<p>La siguiente tabla muestra la relación en que cada actividad se vincula con los criterios de avaluación:</p>\n<p><a href=\"{{context_path}}/content/resources/6.1. Asociamos tareas a Criterios de evaluación_.pdf\" title=\"6.1. Asociamos tareas a Criterios de evaluación_.pdf\">https://drive.google.com/file/d/1gr_CGWaniar-3CIbUAiXWAtZVCMlG7d1/view?usp=sharing</a></p>\n<p><embed width=\"100%\" height=\"100 %\" src=\"{{context_path}}/content/resources/6.1. Asociamos tareas a Criterios de evaluación_.pdf\" type=\"application/pdf\"></embed></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mojqy87l-eiceuv0p9</odePageId>
+  <odeParentPageId>page-mojqy87a-cq8z7icpc</odeParentPageId>
+  <pageName>Línea temporal de actividades</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal de actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal de actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mojqy87l-eiceuv0p9</odePageId>
+      <odeBlockId>block-1776965663026-3v4q56iw0</odeBlockId>
+      <blockName>Hoja de ruta</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mojqy87l-eiceuv0p9</odePageId>
+          <odeBlockId>block-1776965663026-3v4q56iw0</odeBlockId>
+          <odeIdeviceId>idevice-1776965663023-syewdxfd0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Gemini_Generated_Image_8hpzj58hpzj58hpz.png" width="1408" height="768" alt="SDA. " huerto="" 2="" 0="" imagen="" generada="" con="" gemini="" uso="" educativo="" /></p>
+<p><em>Imagen generada con Gemini Nano Banana. Uso educativo.</em></p>
+<p>La línea temporal es la guía que presenta de forma sencilla y organizada las actividades que trabajaremos en el proyecto.</p>
+<p>Aquí tienes un ejemplo de lo que haremos:</p>
+<p><br /></p>
+<p></p>
+<figure class="exe-figure exe-media position-center license-standard-youtube" style="width: 560px;" id="fig_hi6lrmzo1"><iframe width="560" height="314" src="https://www.youtube.com/embed/KV7n7tues7Y?t=133s" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><span class="author">La huertina de Toni</span>. <span class="title"><em>Cultivo de habas</em></span> <span class="license"><span class="sep">(</span><a href="https://www.youtube.com/static?template=terms" rel="license nofollow noopener" target="_blank">Licencia de YouTube estándar</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p></p>
+<p><a href="https://www.youtube.com/watch?v=KV7n7tues7Y&amp;t=223s" title="">https://www.youtube.com/watch?v=KV7n7tues7Y&amp;t=223s</a></p>
+<p>Las actividades han sido diseñadas como pasos progresivos que permitan al alumnado avanzar en el razonamiento y finalizar en la comunicación de los resultados obtenidos.</p>
+<p>https://view.genially.com/69d522542fef1abdc2251674</p>
+<p><a href="https://view.genially.com/69d522542fef1abdc2251674" title=""><img src="{{context_path}}/content/resources/Captura de pantalla 2026-04-23 193756.png" title="Línea temporal" width="1388" height="670" alt="" /></a></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776965663023-syewdxfd0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_8hpzj58hpzj58hpz.png\" width=\"1408\" height=\"768\" alt=\"SDA. \" huerto=\"\" 2=\"\" 0=\"\" imagen=\"\" generada=\"\" con=\"\" gemini=\"\" uso=\"\" educativo=\"\" /></p>\n<p><em>Imagen generada con Gemini Nano Banana. Uso educativo.</em></p>\n<p>La línea temporal es la guía que presenta de forma sencilla y organizada las actividades que trabajaremos en el proyecto.</p>\n<p>Aquí tienes un ejemplo de lo que haremos:</p>\n<p><br /></p>\n<p></p>\n<figure class=\"exe-figure exe-media position-center license-standard-youtube\" style=\"width: 560px;\" id=\"fig_hi6lrmzo1\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/KV7n7tues7Y?t=133s\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">La huertina de Toni</span>. <span class=\"title\"><em>Cultivo de habas</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"https://www.youtube.com/static?template=terms\" rel=\"license nofollow noopener\" target=\"_blank\">Licencia de YouTube estándar</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p></p>\n<p><a href=\"https://www.youtube.com/watch?v=KV7n7tues7Y&amp;t=223s\" title=\"\">https://www.youtube.com/watch?v=KV7n7tues7Y&amp;t=223s</a></p>\n<p>Las actividades han sido diseñadas como pasos progresivos que permitan al alumnado avanzar en el razonamiento y finalizar en la comunicación de los resultados obtenidos.</p>\n<p>https://view.genially.com/69d522542fef1abdc2251674</p>\n<p><a href=\"https://view.genially.com/69d522542fef1abdc2251674\" title=\"\"><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-04-23 193756.png\" title=\"Línea temporal\" width=\"1388\" height=\"670\" alt=\"\" /></a></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mojqy87m-3ujeu1b9x</odePageId>
+  <odeParentPageId>page-mojqy87a-cq8z7icpc</odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mojqy87m-3ujeu1b9x</odePageId>
+      <odeBlockId>block-1776880944424-mb0duxkb9</odeBlockId>
+      <blockName></blockName>
+      <iconName>english</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mojqy87m-3ujeu1b9x</odePageId>
+          <odeBlockId>block-1776880944424-mb0duxkb9</odeBlockId>
+          <odeIdeviceId>idevice-1776880944421-nscebpjc3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="https://view.genially.com/69ef8ebdb6b4b5d1be430b62" alt="" width="NaN" height="NaN" title="" />     </p>
+<p style="text-align: justify;"><a href="https://view.genially.com/69ef8ebdb6b4b5d1be430b62" title="mceclip0.png" target="_blank" rel="noopener"><img src="{{context_path}}/content/resources/mceclip0.png" /></a>Los instrumentos de evaluación de este proyecto están diseñados para valorar el proceso de enseñanza-aprendizaje. A lo largo de las sesiones se utilizarán diferentes herramientas que permitan una evaluación continua y formativa del alumnado.</p>
+<p><br /></p>
+<p><a href="https://drive.google.com/file/d/1GKba97Ii6pEqo0sIP9ouGuOmVtSpdN7N/view?usp=sharing" title="Instrumentos de evaluación.">https://drive.google.com/file/d/1GKba97Ii6pEqo0sIP9ouGuOmVtSpdN7N/view?usp=sharing</a><embed width="100 %" height="100%" src="{{context_path}}/content/resources/Módulo 8- Instrumentos de evaluación.pdf" type="application/pdf"></embed></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776880944421-nscebpjc3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"https://view.genially.com/69ef8ebdb6b4b5d1be430b62\" alt=\"\" width=\"NaN\" height=\"NaN\" title=\"\" />     </p>\n<p style=\"text-align: justify;\"><a href=\"https://view.genially.com/69ef8ebdb6b4b5d1be430b62\" title=\"mceclip0.png\" target=\"_blank\" rel=\"noopener\"><img src=\"{{context_path}}/content/resources/mceclip0.png\" /></a>Los instrumentos de evaluación de este proyecto están diseñados para valorar el proceso de enseñanza-aprendizaje. A lo largo de las sesiones se utilizarán diferentes herramientas que permitan una evaluación continua y formativa del alumnado.</p>\n<p><br /></p>\n<p><a href=\"https://drive.google.com/file/d/1GKba97Ii6pEqo0sIP9ouGuOmVtSpdN7N/view?usp=sharing\" title=\"Instrumentos de evaluación.\">https://drive.google.com/file/d/1GKba97Ii6pEqo0sIP9ouGuOmVtSpdN7N/view?usp=sharing</a><embed width=\"100 %\" height=\"100%\" src=\"{{context_path}}/content/resources/Módulo 8- Instrumentos de evaluación.pdf\" type=\"application/pdf\"></embed></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mojqy87o-opyba3fdj</odePageId>
+  <odeParentPageId>page-mojqy87a-cq8z7icpc</odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mojqy87o-opyba3fdj</odePageId>
+      <odeBlockId>block-1776967442561-6d5v6e2b2</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mojqy87o-opyba3fdj</odePageId>
+          <odeBlockId>block-1776967442561-6d5v6e2b2</odeBlockId>
+          <odeIdeviceId>idevice-1776967442558-z5mwkvh48</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776967442558-z5mwkvh48","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mojqy87o-opyba3fdj</odePageId>
+      <odeBlockId>block-1776967539096-jdvi5cuvb</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mojqy87o-opyba3fdj</odePageId>
+          <odeBlockId>block-1776967539096-jdvi5cuvb</odeBlockId>
+          <odeIdeviceId>idevice-1776967539095-6ievtalwo</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">HUERTO 2.0</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Este proyecto intenta implicar al alumnado en el uso y aplicación de herramientas digitales o través del trabajo de cultivo de un huerto escolar.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Joaquín Palma Bermejo</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
